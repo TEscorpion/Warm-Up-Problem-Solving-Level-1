@@ -1,3 +1,5 @@
+// Program to read first name and last name and print the full name  
+
 #include <iostream>
 
 struct Person_Info{
